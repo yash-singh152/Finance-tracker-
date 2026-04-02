@@ -1,0 +1,6 @@
+Django==5.1.4
+djangorestframework==3.16.0
+django-filter==25.1
+sqlparse==0.5.3
+pytz==2025.2
+tzdata==2025.2
