@@ -179,6 +179,4 @@ This project uses **SQLite3** by default (no setup required). For production, sw
 
 ---
 
-## 📄 License
 
-MIT License — feel free to use and modify.
